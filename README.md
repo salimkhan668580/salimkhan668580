@@ -1,67 +1,44 @@
-<h1 align="center">Hi 👋, I'm Salim Khan</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF72E&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
----
+## 🚀 About Me
+I'm a passionate developer who loves to build amazing projects and contribute to open source. My expertise includes [your skills/tools]. I enjoy solving complex problems and learning new technologies.
 
-### 🧑‍💻 About Me
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on **Full-stack Web Applications**
-- 🌱 I’m currently learning **TypeScript, Docker & System Design**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love solving real-world problems with code.
+## 📈 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
 
-### 🚀 Tech Stack
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
 
-#### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-#### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+## 💻 Recent Activity
+<!--START_SECTION:activity-->
+1. 🎵 Merged PR #1 in [repository]
+2. 🏷️ Created tag v1.0 in [repository]
+3. 🚀 Pushed 3 commits to [repository]
+4. 💪 Opened PR #42 in [repository]
+5. 🎉 Created new repository [repository]
+<!--END_SECTION:activity-->
 
-#### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-#### 🔧 Tools  
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="yourusername" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
 </p>
